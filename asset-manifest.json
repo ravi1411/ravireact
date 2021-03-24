@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ravireact/static/css/main.0b380df8.chunk.css",
+    "main.js": "/ravireact/static/js/main.72ab8a10.chunk.js",
+    "main.js.map": "/ravireact/static/js/main.72ab8a10.chunk.js.map",
+    "runtime-main.js": "/ravireact/static/js/runtime-main.620fc270.js",
+    "runtime-main.js.map": "/ravireact/static/js/runtime-main.620fc270.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/ravireact/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.00391e03.chunk.js": "/ravireact/static/js/2.00391e03.chunk.js",
+    "static/js/2.00391e03.chunk.js.map": "/ravireact/static/js/2.00391e03.chunk.js.map",
+    "index.html": "/ravireact/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/ravireact/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.0b380df8.chunk.css.map": "/ravireact/static/css/main.0b380df8.chunk.css.map",
+    "static/js/2.00391e03.chunk.js.LICENSE.txt": "/ravireact/static/js/2.00391e03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.620fc270.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.00391e03.chunk.js",
+    "static/css/main.0b380df8.chunk.css",
+    "static/js/main.72ab8a10.chunk.js"
+  ]
+}
